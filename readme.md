@@ -1,10 +1,10 @@
 <!-- Banner -->
 <!-- <p align="center">
-  <img src="https://i.imgur.com/dZ0JQ0f.gif" width="700" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/animated-banner.gif" width="100%" />
 </p> -->
 
 <h1 align="center">👋 Hi, I'm <strong>Shahzad Khichi</strong></h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Programming Instructor</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 ---
 
@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Software_Engineer-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Full_Stack_Developer-1f6feb?style=for-the-badge" />
- 
 </p>
 
 ---
@@ -20,10 +19,9 @@
 ## <h2 align="center">🔥 About Me</h2>
 
 <p align="center">
-I'm a dedicated <strong>Software Engineer</strong> who builds scalable backend systems, clean frontend UIs, 
-and complete full-stack applications.  
-I also teach programming privately, helping students master <strong>PF, OOP, DSA, OS, DB, C++, Java, JavaScript, and Python</strong>.  
-Passionate about solving problems, writing documentation, and creating meaningful software.
+I'm a passionate <strong>Software Engineer</strong> who enjoys building scalable backend systems,  
+modern frontend UIs, and full-stack applications with clean architecture.  
+Focused on performance, maintainability, and developer-friendly code.
 </p>
 
 ---
@@ -55,62 +53,39 @@ Passionate about solving problems, writing documentation, and creating meaningfu
 ### <h3 align="center">🎓 EdTech Learning Platform</h3>
 
 <p align="center">
-A complete online learning system with courses, quizzes, progress tracking, user dashboards,  
-teacher content tools, and secure authentication.
+Complete online learning system with course management, quizzes, dashboards,  
+media uploads, authentication, and role-based access control.
 </p>
 
 ### <h3 align="center">💬 Real-Time Chat Application</h3>
 
 <p align="center">
-A modern chat app with one-to-one messaging, online/offline status, typing indicators,  
-real-time events, and secure message storage.
+A full real-time chat app with one-to-one messaging, live updates via WebSockets,  
+typing indicators, online/offline presence, and secure message handling.
 </p>
 
 ---
 
-## <h2 align="center">✍️ Technical Writing</h2>
+## <h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
-I specialize in creating: <br />
-<strong>SRS, SDS, API Docs, Technical Documentation, Tutorials, and Research-based Articles.</strong>
-</p>
-
----
-
-## <h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ShahzadKhichi&show_icons=true&theme=dark" height="160" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzadKhichi&theme=dark" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzadKhichi&theme=dark" height="165" />
 </p>
 
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadKhichi&layout=compact&theme=dark" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadKhichi&layout=compact&theme=dark&hide_border=true" height="150" />
 </p> -->
-
----
-
-## <h2 align="center">🧠 What I Teach</h2>
-
-<p align="center">
-PF • OOP • DSA • OS • DBMS • Web Development <br />
-C++ • Java • JavaScript • Python
-</p>
 
 ---
 
 ## <h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
-📧 Email: <strong>shahzadkhichi996@gmail.com</strong> <br />
-💼 LinkedIn: <strong>https://www.linkedin.com/in/shahzad-khichi-3931372a5/</strong>
+📧 <strong>shahzadkhichi996@gmail.com</strong> <br/>
+💼 <strong>linkedin.com/in/shahzad-khichi-3931372a5</strong>
 </p>
 
 ---
-
-<!-- <p align="center">
-  <img src="https://i.imgur.com/MW6VQkC.gif" width="500" />
-</p> -->
 
 <p align="center">
   ⭐ <strong>If you like my work, consider starring my repositories!</strong> ⭐
